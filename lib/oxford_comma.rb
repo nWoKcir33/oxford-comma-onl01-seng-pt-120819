@@ -1,7 +1,7 @@
 def oxford_comma(array)
 if array [0]
-array.join
+puts "#{array [0]""
 elsif array [0..1]
-array [0..1].join(" and ")
+array.join(" and ")
 end
 end
